@@ -12,9 +12,9 @@
 ## Services
 * Financial Services Profitability
 Management
-• Oracle Financial Services Asset Liability
+* Financial Services Asset Liability
 Management
-• Oracle Financial Services Price Creation
+* Financial Services Price Creation
 and Discovery
 • Oracle Financial Services Asset Liability
 Management Analytics
