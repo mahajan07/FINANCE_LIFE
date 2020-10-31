@@ -10,7 +10,7 @@
 
 
 ## Services
-• Oracle Financial Services Profitability
+* Financial Services Profitability
 Management
 • Oracle Financial Services Asset Liability
 Management
