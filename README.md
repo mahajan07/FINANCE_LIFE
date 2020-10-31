@@ -7,3 +7,22 @@
 * [Credit card fraud dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * [NYSE dataset](https://www.kaggle.com/dgawlik/nyse)
 * [WORLD BANK](https://data.worldbank.org/)
+
+
+## Services
+• Oracle Financial Services Profitability
+Management
+• Oracle Financial Services Asset Liability
+Management
+• Oracle Financial Services Price Creation
+and Discovery
+• Oracle Financial Services Asset Liability
+Management Analytics
+• Oracle Financial Services Enterprise
+Performance Analytics
+• Oracle Financial Services Retail
+Performance Analytics
+• Oracle Financial Services Institutional
+Performance Analytics
+• Oracle Financial Services Analytical
+Applications Infrastructure
