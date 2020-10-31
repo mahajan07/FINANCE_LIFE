@@ -20,9 +20,9 @@ and Discovery
 Management Analytics
 * Financial Services Enterprise
 Performance Analytics
-• Oracle Financial Services Retail
+* Financial Services Retail
 Performance Analytics
-• Oracle Financial Services Institutional
+* Financial Services Institutional
 Performance Analytics
 • Oracle Financial Services Analytical
 Applications Infrastructure
