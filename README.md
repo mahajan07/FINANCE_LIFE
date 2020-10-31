@@ -16,9 +16,9 @@ Management
 Management
 * Financial Services Price Creation
 and Discovery
-• Oracle Financial Services Asset Liability
+* Financial Services Asset Liability
 Management Analytics
-• Oracle Financial Services Enterprise
+* Financial Services Enterprise
 Performance Analytics
 • Oracle Financial Services Retail
 Performance Analytics
