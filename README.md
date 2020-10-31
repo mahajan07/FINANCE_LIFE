@@ -24,5 +24,5 @@ Performance Analytics
 Performance Analytics
 * Financial Services Institutional
 Performance Analytics
-• Oracle Financial Services Analytical
+* Financial Services Analytical
 Applications Infrastructure
