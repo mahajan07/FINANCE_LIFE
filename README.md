@@ -1,4 +1,4 @@
-# FINANCE_LIFE
+# FINANCE LIFE
 
 ## DATASETS
 * [Credit default risk competition]( https://www.kaggle.com/c/home-credit-default-risk)
@@ -9,7 +9,7 @@
 * [WORLD BANK](https://data.worldbank.org/)
 
 
-## Services..
+## Services
 * Financial Services Profitability
 Management
 * Financial Services Asset Liability
